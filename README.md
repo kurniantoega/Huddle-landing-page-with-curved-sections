@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kurniantoega/Huddle-landing-page-with-curved-sections](https://github.com/kurniantoega/Huddle-landing-page-with-curved-sections)
+- Live Site URL: [https://kurniantoega.github.io/Huddle-landing-page-with-curved-sections/](https://kurniantoega.github.io/Huddle-landing-page-with-curved-sections/)
 
 ## My process
 
@@ -42,6 +42,8 @@ Users should be able to:
 - Javascript
 
 ### What I learned
+
+Email validation using javascript
 
 ```js
 function isEmailvalid(email) {
